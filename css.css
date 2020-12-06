@@ -19,6 +19,9 @@ body
   width: 175px;
   float:inherit;
   border-radius: 100px;
+  position: relative;
+  left: 550;
+  top: 15;
 }
 .top
 {
